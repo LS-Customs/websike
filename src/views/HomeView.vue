@@ -1,6 +1,9 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
+    <img
+      alt="Vue logo"
+      src="../assets/2021-mercedes-amg-gt-stealth-edition.jpg"
+    />
     <HelloWorld msg="Welcome to Your.js App" />
   </div>
 </template>
